@@ -1,0 +1,33 @@
+h1 {
+
+	position: fixed;
+    top: 0;
+
+}
+
+
+.first {
+
+    float: right;
+    margin-right: 20px;
+}
+.sunset {
+ float:right;
+}
+
+h2 {
+
+	
+	font-size: 65px;
+}
+
+.palm { 
+
+        margin-top: 60px;
+
+}
+
+p { line-height: 19px;
+}
+
+.last
