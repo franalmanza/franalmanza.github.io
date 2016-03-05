@@ -1,25 +1,80 @@
-
-
-.palm {
-
-    
-    position: relative;
-    margin-left: 190px;
-}
-
-h1 {
-
-float: left;
-
-}
-
-.eyes {
+.title {
 
     position: fixed;
-    margin-left: 150px;
+    top: 0;
+    left: 0;
+    padding-left: 20px;
+    background-color: #ffc34d;
+    width: 100%;
+
+}
+
+.swaying {
+
+    
+    padding-top:110px;
+    left:0;
+    background-image: url(https://www.thetreecenter.com/wp-content/uploads/palm-trees-beach.jpg);
+    color: white;
+    height: 70%;
+    margin-left: -10px;
+
 }
 
 
-p { line-height: 19px;
+
+
+.first {
+
+    
+    margin-right: 20px;
+    padding: 20px;
+    background-image: url(http://tobygiessen.com/wp-content/uploads/2015/03/SunsetGradient_11.jpg);
+    color: white;
+    width: 100%;
+    margin-left: -10px;
+    }
+
+.tuberose {
+
+    margin-left: 200px;
+    display: inline-block;
 }
 
+
+
+.whales {
+
+    
+    background-image: url(http://cdn.pcwallart.com/images/dolphins-jumping-in-the-sunset-wallpaper-1.jpg);
+    width: 100%;
+    color: white;
+    padding: 100px;
+    margin-left: -10px;
+}
+
+.celebrate {
+
+    background-image: url(http://www.moanaluagardensfoundation.org/mgf-hawaii/pr/Photos/DSC_0531a%20Pua%20Alii%20Ilima%20%20-%20Kumu%20Hula%20Vicky%20Holt%20Takamine.jpg);
+    width: 100%;
+    color: white;
+    padding: 100px;
+    margin-left: -10px;
+
+}
+
+
+
+.palm { 
+
+        margin-top: 60px;
+        margin-left: 200px;
+
+}
+
+p { line-height: 12px;
+}
+
+
+
+   

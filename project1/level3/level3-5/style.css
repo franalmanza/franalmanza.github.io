@@ -1,23 +1,85 @@
 
 
-.first {
-
-    float: right;
-    margin-right: 20px;
-}
-.sunset {
- float:right;
-}
 
 
+.title {
 
-.palm { 
+	background-color: white;
+	color:gray;
+	padding: 10px;
+	top: 0;
+	left:0;
+	position: fixed;
 
-        margin-top: 60px;
+
 
 }
+body 
 
-p { line-height: 19px;
+{
+
+	background: url(http://www.onepiecetravel.com/upimg/090921/1_033902.jpg) fixed;
+	color: white;
+
+	
 }
 
-.last
+
+.palm {
+
+  
+    background-color: #F2B46D;
+    display: block;
+    margin-right: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    margin-top: 70px;
+}
+
+.music {
+
+  
+    background-color: #F7EC54;
+    display: block;
+    margin-right: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+.tuberose {
+
+  
+    background-color: #7F9C64;
+    display: block;
+    margin-left: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+
+.waterfall {
+
+ 	background-color: #649B9C;
+    display: block;
+    margin-left: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+
+
+}
+
+
+.whale {
+
+  
+    background-color: #F2B46D;
+    display: block;
+    margin-right: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}

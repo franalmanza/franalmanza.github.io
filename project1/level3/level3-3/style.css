@@ -1,23 +1,50 @@
 
 
-.first {
+.title { 
 
-    float: right;
-    margin-right: 20px;
-}
-.sunset {
- float:right;
-}
+	color: gray; 
 
-
-
-.palm { 
-
-        margin-top: 60px;
+    
 
 }
 
-p { line-height: 19px;
+.palm {
+
+
+    background-color: #ACE3B0;
+	color:  white;
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
 }
 
-.last
+.dive  { 
+
+	background-color: red;
+		
+
+}
+
+
+.eyes  { 
+
+	border: 5px solid red;
+	color: red;
+}
+
+
+
+.paradise {
+			background-color: #ACC4E3;
+			color: white;
+
+
+}
+
+
+
+
+
+
