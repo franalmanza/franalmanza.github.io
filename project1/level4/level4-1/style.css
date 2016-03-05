@@ -1,16 +1,35 @@
+/*
+    font-style
+    font-weight
+    font-size
+    font-family
+    text-align
+    line-height
+    letter-spacing
+    text-transform
+*/
+
 
 p {
 
 	font-size: 10px;
+	font-family: helvetica;
+	text-transform: capitalize;
+	text-align: center;
+	margin: 0;
+	margin-right: 80px;
+	line-height: 17px;
+
 }
 
 h1 { 
 
 font-size: 18px;
-border: 1px solid;
 display: inline;
+letter-spacing: 6em;
+line-height: 4em;
 }
 
 h5 { padding: 40px;
-    float:right;
+    float: left;
 }

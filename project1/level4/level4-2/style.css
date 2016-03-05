@@ -1,7 +1,23 @@
+/*
+    font-style
+    font-weight
+    font-size
+    font-family
+    text-align
+    line-height
+    letter-spacing
+    text-transform
+*/
+
+
 h1 {
 
 	position: fixed;
     top: 0;
+    font-style: oblique;
+    padding: 350px;
+    font-size: 150px;
+    
 
 }
 
@@ -10,24 +26,27 @@ h1 {
 
     float: right;
     margin-right: 20px;
+    position: static;
 }
-.sunset {
- float:right;
-}
+
 
 h2 {
 
 	
-	font-size: 65px;
+	font-size: 12px;
+	font-family: helvetica;
 }
 
 .palm { 
 
         margin-top: 60px;
+         position: static;
+         font-size: 10px;
 
 }
 
 p { line-height: 19px;
+	font-family: helvetica;
+	font-size: 10px;
 }
 
-.last
