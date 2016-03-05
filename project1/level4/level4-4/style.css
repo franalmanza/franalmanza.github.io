@@ -1,10 +1,28 @@
 
+/*
+    font-style
+    font-weight
+    font-size
+    font-family
+    text-align
+    line-height
+    letter-spacing
+    text-transform
+*/
 
-.first {
+
+body {
+
+	font-size: 40px;
+	font-family: helvetica;
+}
+
+.title {
 
     float: right;
     margin-right: 20px;
 }
+
 .sunset {
  float:right;
 }

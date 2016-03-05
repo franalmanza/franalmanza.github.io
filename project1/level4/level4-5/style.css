@@ -1,10 +1,33 @@
+/*
+    font-style
+    font-weight
+    font-size
+    font-family
+    text-align
+    line-height
+    letter-spacing
+    text-transform
+*/
 
+body {
 
-.first {
+	font-size: 40px;
+	font-family: helvetica;
+	line-height: 50px;
+}
+
+.title {
 
     float: right;
     margin-right: 20px;
+   	position: fixed;
+   	border: 1px dashed #93FAF5;
+   	padding: 5px;
+   	font-style: italic;
+
+    
 }
+
 .sunset {
  float:right;
 }
