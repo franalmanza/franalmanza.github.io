@@ -179,6 +179,7 @@ footer nav {
 @media screen and (max-width: 1120px) {
     header { padding: 20px; z-index: 9999; }
     .name { margin: 0; padding: 0; float: left; clear: both; position: relative; }
+    .name p {font-size: 14px; line-height: 20px;}
     .contact { float: left; clear: both; margin-top: 1em; position: relative; }
     .artiststatement { max-width: 100%; margin: 360px 20px 20px; padding: 0px; clear: both; position: relative; }
     .container { margin: 0; padding: 50 40 10 30;  max-width: 100% !important;  left:0; position: relative; clear: both; }
